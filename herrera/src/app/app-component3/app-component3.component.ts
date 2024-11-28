@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './app-component3.component.css'
 })
 export class AppComponent3Component {
-
+lopez = 'quarto'
 }

@@ -12,4 +12,5 @@ import { AppComponent1Component } from './app-component1/app-component1.componen
 })
 export class AppComponent {
   title = 'angular-gitpod';
+  karla = 'app'
 }
